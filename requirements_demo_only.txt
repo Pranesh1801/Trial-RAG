@@ -1,0 +1,6 @@
+# Minimal for demos - no compilation needed
+streamlit
+plotly
+scikit-learn
+numpy
+scipy
